@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prix_Total_Remise</string>
+    <string-array name="catégorie">
+        <item>Produit Local</item>
+        <item>Importer de l Europe</item>
+        <item>Importer de l Asie</item>
+    </string-array>
+    <string-array name="produit">
+        <item>Ordinateur</item>
+        <item>Imprimante 3D</item>
+        <item>Vidéoprojecteur</item>
+        <item>Photococpieure</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="items_prix">%s Dh</string>
+</resources>
